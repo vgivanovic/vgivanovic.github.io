@@ -1,0 +1,9 @@
++++
+title = "My first post"
+author = ["Vladimir G. Ivanović"]
+tags = ["tag1"]
+categories = ["category1"]
+draft = false
++++
+
+This is my post body, such as it is.
