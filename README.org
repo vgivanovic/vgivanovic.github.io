@@ -1,0 +1,4 @@
+#+title: Miscellaneous Amblings
+#+subtitle: A blog about education, politics, science, foreign policy, and whatever else interests me.
+
+* This is the blog's README.
