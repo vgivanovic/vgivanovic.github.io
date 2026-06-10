@@ -1,42 +1,42 @@
+LASD Matters, Issue 1: Transparency, Bonds, and Taxes
 
-LASD Matters, Issue 1: Transparency and Consequences
-
-Hello! I'm Vladimir Ivanovic, a former Los Altos School District (LASD) Board
-member. I resigned in March 2026 because I could not support the Board's
+Hello! I’m Vladimir Ivanovic, a former Los Altos School District (LASD) Board
+member. I resigned in March 2026 because I could not support the Board’s
 decision to move 650 Bullis Charter School (BCS) students to a new campus to be
-built just for them on land that LASD acquired in 2019. I think it's the wrong
-decision for a multiple reasons that I'll go over in another issue of "LASD
-Matters".
+built just for them on land that LASD acquired in 2019. I think it’s the wrong
+decision for a multiple reasons that I’ll go over in another issue of “LASD
+Matters”.
 
-For now, I want to highlight the Board's deliberate lack of transparency and two
-consequences of the Board's decision.
+For now, I want to highlight what I believe is the Board’s deliberate lack of
+transparency about what a recent bond measure was for, and the why that’s
+important.
 
-In November 2024, LASD voters passed Measure EE, a $350M bond measure to upgrade
-LASD facilities. Strange as it may seem, the measure's legally required ballot
-summary didn't mention that 40% of the bond proceeds were to be used to give BCS
-the newest and best campus in all of LASD. This opacity was not accidental.
-Being upfront about how 40% of Measure EE was not going to benefit LASD schools
-would have sunk the bond measure. As it turns out, the measure barely passed
-with just a 1.2% margin, leaving LASD taxpayers on the hook to pay back an
-estimated $730M over the next 30 years.
+In November 2024 LASD voters passed Measure EE, a $350M bond measure to upgrade
+LASD facilities. Strange as it may seem, the measure’s legally required ballot
+summary didn’t mention that 40% of the bond proceeds were to be used to give BCS
+the newest and best campus in all of LASD. This opacity was not accidental
+because being upfront about how 40% of Measure EE was not going to benefit LASD
+schools would have sunk the bond measure. As it turns out, the measure barely
+passed with just a 1.2% margin, leaving LASD taxpayers on the hook to pay back
+an estimated $730M over the next 30 years that won’t do what they expected.
 
-There are at least two serious consequences that have barely been discussed in
-public. One is that Measure EE will increase property taxes by ~$600 to ~$1200
-or more per year until Measure EE is paid off -- in 30 years. (The actual annual
-increase is $30 per $100,000 of assessed value. For a home assessed at $2M, that
-$600/year; for a $4M home, that $1200/year.)
+There are at least two important and serious consequences that have barely been
+discussed in public. One is that Measure EE will increase property taxes by
+~$600 to ~$1200 or more per year until Measure EE is paid off – in 30 years.
+(The actual annual increase is $30 per $100,000 of assessed value. For a home
+assessed at $2M, that $600/year; for a $4M home, that $1200/year.) The upsetting
+part is that only a portion of this new property tax will benefit LASD schools.
 
-Another consequence, not discussed at all, is the difficulty for LASD to pass
-two more bond measures that are needed to finance LASD upgrades and new
-construction. People, in general, don't like to be taken advantage of twice. In
-any case, the pass rate of bond measures in LASD has been dropping for years,
-and that will also make passing two more bond measures hard. So, once again,
-it's likely that LASD will not have enough money to upgrade its existing
-campuses nor to replace portables with permanent buildings, leaving BCS with
-LASD's only modern campus.
+Another consequence, not discussed at all, is the difficulty LASD will face to
+pass two or more additional bond measures, bond measures that must be passed to
+complete the Facilities Master Plan. People, in general, don’t like to be
+hoodwinked twice, so it’s doubtful that these new bond measures will pass.
+Additionally, the pass rate of bond measures in LASD has been dropping for
+years, and that will also make passing two more bond measures hard. The most
+likely outcome, once again, is that LASD will not have enough money to upgrade
+its existing facilities nor replace portables with permanent buildings, leaving
+BCS with LASD’s only modern campus. I don’t think this is an outcome that voters
+expected or wanted.
 
-Visit the LASD Matters repository to find references, documentation, and
-discussions.
-- Documentation and references:
-  <https://github.com/vgivanovic/vgivanovic.github.io/wiki>
-- Discussions: <https://github.com/vgivanovic/vgivanovic.github.io/discussions>
+Visit <https://github.com/vgivanovic/vgivanovic.github.io/wiki> to find
+references, documentation, and PDF versions of LASD Matters issues.
