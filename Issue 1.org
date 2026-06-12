@@ -1,7 +1,7 @@
 # -*- mode: org; org-ascii-text-width:80; fill-column:80;-*-
 # Created 2020-10-16 Fri 22:42
 # Intended LaTeX compiler: lualatex
-# Time-stamp: <2026-06-10 10:44:16 vladimir>
+# Time-stamp: <2026-06-12 09:55:12 vladimir>
 # Copyright (C) 2020, 2021, 2025, 2026 Vladimir G. Ivanović
 #+OPTIONS: toc:nil
 #+LATEX_CLASS: org-memoir
