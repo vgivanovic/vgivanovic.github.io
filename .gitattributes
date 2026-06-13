@@ -1,0 +1,10 @@
+read_the_most_recent_version_of_the_lasd_facilities_master_plan_here.pdf !text !filter !merge !diff
+*.pdf !text !filter !merge !diff
+*.png !text !filter !merge !diff
+*.gitignore filter=lfs diff=lfs merge=lfs -text
+*.pdf filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+*.org filter=lfs diff=lfs merge=lfs -text
+*.tex filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
