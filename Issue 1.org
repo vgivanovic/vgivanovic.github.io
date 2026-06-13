@@ -1,7 +1,7 @@
-# -*- mode: org; org-ascii-text-width:80; fill-column:80;-*-
+# -*- mode: org; -*-
 # Created 2020-10-16 Fri 22:42
 # Intended LaTeX compiler: lualatex
-# Time-stamp: <2026-06-12 09:55:12 vladimir>
+# Time-stamp: <2026-06-12 16:55:12 vladimir>
 # Copyright (C) 2020, 2021, 2025, 2026 Vladimir G. Ivanović
 #+OPTIONS: toc:nil
 #+LATEX_CLASS: org-memoir
@@ -32,16 +32,16 @@ LASD facilities. Strange as it may seem, the measure's legally required ballot
 summary didn't mention that 40% of the bond proceeds were to be used to give BCS
 the newest and best campus in all of LASD. This opacity was not accidental
 because being upfront about how 40% of Measure EE was not going to benefit LASD
-schools would have sunk the bond measure. As it turns out, the measure barely
-passed with just a 1.2% margin, leaving LASD taxpayers on the hook to pay back
-an estimated $730M over the next 30 years that won't do what they expected.
+schools would surely have sunk the bond measure. As it turns out, the measure
+barely passed with just a 1.2% margin, leaving LASD taxpayers on the hook to pay
+back an estimated $730M over the next 30 years that won't do what they expected.
 @@latex:\newline@@
 
 There are at least two important and serious consequences that have barely been
 discussed in public. One is that Measure EE will increase property taxes by
-~$600 to ~$1200 or more per year until Measure EE is paid off -- in 30 years.
+~$600 to ~$1500 per year until the bulk of Measure EE is paid off -- in 2051.
 (The actual annual increase is $30 per $100,000 of assessed value. For a home
-assessed at $2M, that $600/year; for a $4M home, that $1200/year.) The upsetting
+assessed at $2M, that $600/year; for a $5M home, that $1500/year.) The upsetting
 part is that only a portion of this new property tax will benefit LASD schools.
 @@latex:\newline@@
 
@@ -56,6 +56,10 @@ its existing facilities nor replace portables with permanent buildings, leaving
 BCS with LASD's only modern campus. I don't think this is an outcome that voters
 expected or wanted. @@latex:\newline@@
 
-Visit [[https://github.com/vgivanovic/vgivanovic.github.io/wiki]] to find
-references, documentation, and PDF versions of LASD Matters issues.
+Visit [[https://vgivanovic.github.io]] to find references, documentation, and PDF
+versions of LASD Matters issues.
 
+Local Variables:
+org-ascii-text-width:80
+fill-column:80
+End:
